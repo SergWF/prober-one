@@ -19,3 +19,4 @@ Start importingStart importingImport successful: import2022-01-24T13:10:51.98127
 2022-01-24T13:27:18.782398Z Import successful: brands-dev.csv
 2022-01-24T13:27:22.682933Z Import successful: brands-qa.csv
 2022-01-24T13:27:27.730007Z Import successful: brands-stage.csv
+2022-01-24T13:27:33.050155Z Import successful: brands-common.csv
