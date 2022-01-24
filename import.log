@@ -30,3 +30,4 @@ Start importingStart importingImport successful: import2022-01-24T13:10:51.98127
 2022-01-24T13:30:40.455327Z Import successful: brands-prod.csv
 2022-01-24T13:30:51.551960Z Import finished
 2022-01-24T13:33:55.435006Z Start importing
+2022-01-24T13:33:57.919732Z Import successful: brands-dev.csv
