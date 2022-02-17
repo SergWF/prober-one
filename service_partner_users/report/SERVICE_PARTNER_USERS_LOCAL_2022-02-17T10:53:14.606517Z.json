@@ -1,0 +1,1 @@
+{"total":2,"processed":0,"errorCount":2,"errors":[{"line":0,"error":"processing error: Keycloak user could not be found (username: sp_u****@****.com)."},{"line":1,"error":"processing error: Keycloak user could not be found (username: sp_u****@****.com)."}],"warningCount":0,"warnings":[]}
